@@ -1,0 +1,10 @@
+
+# @name getPost
+GET http://localhost:3333
+
+###
+
+# @name reqPost
+POST http://localhost:3333
+
+###
